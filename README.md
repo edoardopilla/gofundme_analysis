@@ -5,4 +5,4 @@ GoFundMe.com is a crowdfunding platform, often utilized by individuals or non pr
 
 In this analysis, environmental fundraisers are browsed to gather information about the campaigns themselves, and a textual analysis, comprehensive of sentiment analysis, is carried out using a lexicon based approach, in addition to a machine learning based approach, which relies on DistilBERT, both on campaigns' titles and descriptions.
 
-More information is available in the .ipynb file, contained within the .zip folder.
+More information is available in the .ipynb file, where the full report is outlined.
